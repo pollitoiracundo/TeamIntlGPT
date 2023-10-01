@@ -3,9 +3,7 @@ autogpt/keys.py
 autogpt/*.json
 auto_gpt_workspace/*
 *.mpeg
-.env
 azure.yaml
-ai_settings.yaml
 last_run_ai_settings.yaml
 .vscode
 .idea/*
