@@ -5,7 +5,7 @@ constraints: [
   'You must ask to the user about the stakeholders',
   #'You can ask to the user about the features but you must also research in internet for posible features',
   'Exclusively use the commands listed below e.g. command_name',
-  'Only store the results in a file called project_scoping.txt'
+  'Store the results of each goal in separate files.'
 ]
 resources: [
   'Internet access for searches and information gathering.',
